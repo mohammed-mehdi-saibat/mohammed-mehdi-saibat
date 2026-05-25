@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mehdi Saibat
+# Mohammed Mehdi Saibat
 
 **Full-Stack Developer · YouCode Student · ServiceNow CSA**
 
@@ -15,7 +15,7 @@
 
 ## About
 
-I'm a full-stack developer in training at YouCode, focused on building solid, maintainable software. Currently working at UX4mation as a certified ServiceNow admin, and leveling up on backend architecture and clean code practices every day.
+Full-stack developer in training at YouCode, focused on building clean, maintainable software. Currently working at UX4mation as a certified ServiceNow administrator, leveling up on backend architecture and best practices every day.
 
 ---
 
@@ -37,33 +37,17 @@ I'm a full-stack developer in training at YouCode, focused on building solid, ma
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mehdi-saibat&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mehdi-saibat&theme=tokyonight&layout=compact&hide_border=true" width="41%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohammed-mehdi-saibat&theme=tokyonight&hide_border=true" width="60%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-mehdi-saibat&theme=tokyonight&no-frame=true&column=6&margin-w=8" />
-</div>
-
----
-
 ## Contact
 
-| | |
+| Channel | |
 |---|---|
-| 📧 Personal | `mohammedmehdisaibat@gmail.com` |
-| 💼 Work | `mohammedmehdi.saibat@ux4mation.com` |
-| 💬 Discord | `m3hd1c0d35_83086` |
+| Personal email | mohammedmehdisaibat@gmail.com |
+| Work email | mohammedmehdi.saibat@ux4mation.com |
+| Discord | m3hd1c0d35_83086 |
+| LinkedIn | [mohammed-mehdi-saibat](https://www.linkedin.com/in/mohammed-mehdi-saibat-842b422a5/) |
 
 ---
 
 <div align="center">
-  <sub>Built on Ubuntu 24.04 · Safi, MA 🇲🇦</sub>
+  <sub>Safi, Morocco 🇲🇦</sub>
 </div>
