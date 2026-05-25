@@ -1,19 +1,16 @@
-# 🚀 Hi, I'm Mehdi! 
-**YouCode Student | Full-Stack Developer | ServiceNow CSA**
-
-> "Discipline > Motivation. I build fundamentals the right way."
-
-I’m a developer who thrives on **Ubuntu**, works in **Laravel**, and thinks in **Clean Logic**. Whether I'm deep in a Personal Developer Instance or breaking (then fixing) a React component, I focus on understanding the *why* behind every line of code.
+# <p align="center">🚀 Hi, I'm Mehdi!</p>
+<p align="center">
+  <b>YouCode Student | Full-Stack Developer | ServiceNow CSA</b><br>
+  <i>"Discipline > Motivation. I build fundamentals the right way."</i>
+</p>
 
 ---
 
 ### 📬 Get in Touch
-| Platform | Contact / Address |
-| :--- | :--- |
-| 📧 **Personal Email** | `mohammedmehdisaibat@gmail.com` |
-| 💼 **Work Email** | `mohammedmehdi.saibat@ux4mation.com` |
-| 💬 **Discord** | `m3hd1c0d35_83086` |
-| 🔗 **LinkedIn** | [mohammed-mehdi-saibat](https://www.linkedin.com/in/mohammed-mehdi-saibat-842b422a5/) |
+*   📧 **Personal Email:** `mohammedmehdisaibat@gmail.com`
+*   💼 **Work Email:** `mohammedmehdi.saibat@ux4mation.com`
+*   💬 **Discord:** `m3hd1c0d35_83086`
+*   🔗 **LinkedIn:** [mohammed-mehdi-saibat](https://www.linkedin.com/in/mohammed-mehdi-saibat-842b422a5/)
 
 ---
 
@@ -29,19 +26,19 @@ I’m a developer who thrives on **Ubuntu**, works in **Laravel**, and thinks in
 
 ### 📊 Engineering Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mehdi-saibat&theme=radical&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mehdi-saibat&theme=radical&layout=compact&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mehdi-saibat&theme=radical&show_icons=true&hide_border=true" width="48%" alt="Mehdi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mehdi-saibat&theme=radical&layout=compact&hide_border=true" width="42%" alt="Top Languages" />
 </p>
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-mehdi-saibat&theme=dracula&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-mehdi-saibat&theme=radical&no-frame=true&column=4" alt="Trophies" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mohammed-mehdi-saibat&icon=5&color=8" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=mohammed-mehdi-saibat&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
   <br>
-  <i>Built with ❤️ on Ubuntu 24.04</i>
+  <i>Built with ❤️</i>
 </p>
