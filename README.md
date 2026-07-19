@@ -1,9 +1,12 @@
 <div align="center">
 
-# Mohammed Mehdi Saibat
-**Full-Stack Developer · YouCode Student · ServiceNow CSA**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Mohammed%20Mehdi%20Saibat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20YouCode%20Student%20%C2%B7%20ServiceNow%20CSA&descAlignY=55&descSize=16" width="100%"/>
 
-*Discipline over motivation — building fundamentals the right way.*
+<a href="https://mehdi-saibat.vercel.app/">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=550&lines=Discipline+over+motivation.;Building+fundamentals+the+right+way.;Currently+leveling+up+in+Python+%F0%9F%90%8D" alt="Typing SVG" />
+</a>
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mehdi-saibat.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mehdi-saibat-842b422a5/)
@@ -11,15 +14,24 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## About
+## 🧭 About
 
-Full-stack developer in training at YouCode, focused on building clean, maintainable software. Currently working at UX4mation as a certified ServiceNow administrator, while leveling up on backend architecture, best practices, and Python — one fundamental at a time.
+```yaml
+role: Full-Stack Developer in training @ YouCode
+work: ServiceNow Certified Administrator @ UX4mation
+focus: Backend architecture, clean code, best practices
+learning: Python — one fundamental at a time
+mindset: Discipline > motivation
+location: Safi, Morocco 🇲🇦
+```
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages & Frameworks**
 
@@ -36,20 +48,37 @@ Full-stack developer in training at YouCode, focused on building clean, maintain
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black)
 
----
+</div>
 
-## Contact
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-| Channel | |
-|---|---|
-| Portfolio | [mehdi-saibat.vercel.app](https://mehdi-saibat.vercel.app/) |
-| Personal email | mohammedmehdisaibat@gmail.com |
-| Work email | mohammedmehdi.saibat@ux4mation.com |
-| Discord | m3hd1c0d35_83086 |
-| LinkedIn | [mohammed-mehdi-saibat](https://www.linkedin.com/in/mohammed-mehdi-saibat-842b422a5/) |
-
----
+## 📊 GitHub Stats
 
 <div align="center">
-  <sub>Safi, Morocco 🇲🇦</sub>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammed-mehdi-saibat&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-mehdi-saibat&theme=dracula&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📬 Contact
+
+<div align="center">
+
+| Channel | Link |
+|:---:|:---:|
+| 🌐 Portfolio | [mehdi-saibat.vercel.app](https://mehdi-saibat.vercel.app/) |
+| 📧 Personal | mohammedmehdisaibat@gmail.com |
+| 💼 Work | mohammedmehdi.saibat@ux4mation.com |
+| 💬 Discord | m3hd1c0d35_83086 |
+| 🔗 LinkedIn | [mohammed-mehdi-saibat](https://www.linkedin.com/in/mohammed-mehdi-saibat-842b422a5/) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+
+<div align="center">
+  <sub>Safi, Morocco 🇲🇦 ·</sub>
 </div>
