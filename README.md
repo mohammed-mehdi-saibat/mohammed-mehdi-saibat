@@ -12,6 +12,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mehdi-saibat-842b422a5/)
 [![Profile Views](https://komarev.com/ghpvc/?username=mohammed-mehdi-saibat&color=6c63ff&style=for-the-badge&label=VISITORS)](https://github.com/mohammed-mehdi-saibat)
 
+<br/>
+
+<a href="#-about">About</a> ·
+<a href="#%EF%B8%8F-tech-stack">Tech Stack</a> ·
+<a href="#-github-stats">Stats</a> ·
+<a href="#-contact">Contact</a>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
@@ -59,7 +66,22 @@ location: Safi, Morocco 🇲🇦
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammed-mehdi-saibat&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-mehdi-saibat&theme=dracula&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF" />
 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mehdi-saibat&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=6C63FF" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohammed-mehdi-saibat&theme=dracula&no-bg=true&no-frame=true&row=1&column=6&margin-w=8" />
+
 </div>
+
+<details>
+<summary><b>📈 Contribution Snake</b></summary>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohammed-mehdi-saibat/mohammed-mehdi-saibat/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — requires a small GitHub Action, see note below.</sub>
+</div>
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -77,8 +99,14 @@ location: Safi, Morocco 🇲🇦
 
 </div>
 
+<div align="center">
+
+`🐍 Currently learning Python` &nbsp;•&nbsp; `🎯 Focus: Backend architecture` &nbsp;•&nbsp; `📍 Open to freelance work`
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
 
 <div align="center">
-  <sub>Safi, Morocco 🇲🇦 ·</sub>
+  <sub>Safi, Morocco 🇲🇦</sub>
 </div>
