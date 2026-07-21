@@ -1,84 +1,36 @@
-<div align="center">
+# Hi there, I'm Mohammed Mehdi Saibat 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Mohammed%20Mehdi%20Saibat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20YouCode%20Student%20%C2%B7%20ServiceNow%20CSA&descAlignY=55&descSize=16" width="100%"/>
+I am a Full-Stack Web Developer and software engineering student at YouCode, passionate about building efficient, scalable, and user-centric applications. I enjoy tackling complex architectural problems, designing robust databases, and continuously exploring new technologies.
 
-<h3><em>Discipline over motivation. Building fundamentals the right way. 🐍 Currently leveling up in Python.</em></h3>
+### 👨‍💻 About Me
+* 🎓 Currently honing my software engineering skills at **YouCode**.
+* 📜 **Certified:** ServiceNow Certified System Administrator (CSA).
+* 💻 My daily driver and local development environment is **Linux Ubuntu**.
+* 🤖 Currently exploring artificial intelligence and data handling with Python.
+* 🏋️‍♂️ Off the screen, I stay disciplined through regular calisthenics and fitness training.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mehdi-saibat.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-mehdi-saibat-842b422a5/)
-[![Profile Views](https://komarev.com/ghpvc/?username=mohammed-mehdi-saibat&color=6c63ff&style=for-the-badge&label=VISITORS)](https://github.com/mohammed-mehdi-saibat)
+### 🛠️ Tech Stack & Tools
+* **Languages:** JavaScript, PHP, Python
+* **Frontend:** React, Angular, HTML5, CSS3, TailwindCSS, PrimeNG
+* **Backend & DB:** Laravel, MySQL, OOP PHP
+* **Tools & Workflow:** Linux CLI, Postman, Jupyter Notebooks, Trello
 
-</div>
+### 🚀 Featured Projects
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+* **GourmetLibrary API** 
+  A robust API built with Laravel, featuring secure Sanctum token authentication and comprehensive Postman documentation.
+* **CommonGround** 
+  A social hostel management system structured with complex validation rules, parent-child object models, role permissions for bed-level inventory, and native Laravel Blade views.
+* **BookBus & TaxiYa** 
+  Digital transit solutions tailored for travel and Moroccan transit. Built out comprehensive ERD diagrams, multi-role use cases, and table relationships.
+* **VoyagePlanner** 
+  A space tourism booking web application crafted with Vanilla JavaScript, TailwindCSS, and local storage persistence.
+* **TechCity Library Management** 
+  A management system leveraging an object-oriented, 3-tier architecture in PHP.
+* **FacileAchat** 
+  An e-commerce loyalty system featuring user authentication, Twig templates, and automated points calculation rules.
 
-## 🧭 About
-
-```yaml
-role: Full-Stack Developer in training @ YouCode
-work: ServiceNow Certified Administrator @ UX4mation
-focus: Backend architecture, clean code, best practices
-learning: Python — one fundamental at a time
-mindset: Discipline > motivation
-location: Safi, Morocco 🇲🇦
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Environment**
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammed-mehdi-saibat&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mehdi-saibat&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&title_color=6C63FF" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohammed-mehdi-saibat&theme=dracula&no-bg=true&no-frame=true&margin-w=8&row=1" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 📬 Contact
-
-<div align="center">
-
-| Channel | Link |
-|:---:|:---:|
-| 🌐 Portfolio | [mehdi-saibat.vercel.app](https://mehdi-saibat.vercel.app/) |
-| 📧 Personal | mohammedmehdisaibat@gmail.com |
-| 💼 Work | mohammedmehdi.saibat@ux4mation.com |
-| 💬 Discord | m3hd1c0d35_83086 |
-| 🔗 LinkedIn | [mohammed-mehdi-saibat](https://www.linkedin.com/in/mohammed-mehdi-saibat-842b422a5/) |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
-
-<div align="center">
-  <sub>Safi, Morocco 🇲🇦 ·</sub>
-</div>
+### 📫 Let's Connect
+* **LinkedIn:** [Mohammed Mehdi Saibat](https://www.linkedin.com/in/mohammed-mehdi-saibat-842b422a5/)
+* **Email:** [mohammedmehdisaibat@gmail.com](mailto:mohammedmehdisaibat@gmail.com)
+* **Portfolio:** [mehdi-saibat.vercel.app](https://mehdi-saibat.vercel.app/)
