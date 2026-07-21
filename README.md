@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Mohammed%20Mehdi%20Saibat&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20YouCode%20Student%20%C2%B7%20ServiceNow%20CSA&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://mehdi-saibat.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=550&lines=Discipline+over+motivation.;Building+fundamentals+the+right+way.;Currently+leveling+up+in+Python+%F0%9F%90%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=550&lines=Discipline+over+motivation.;Building+fundamentals+the+right+way.;Currently+leveling+up+in+Python+%F0%9F%90%8D&v=1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -57,7 +57,7 @@ location: Safi, Morocco 🇲🇦
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammed-mehdi-saibat&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF" />
-<img height="165" src="https://streak-stats.demolab.com/?user=mohammed-mehdi-saibat&theme=dracula&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF" />
+<img height="165" src="https://streak-stats.demolab.com/?user=mohammed-mehdi-saibat&theme=dracula&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&v=1" />
 
 </div>
 
